@@ -1,0 +1,7 @@
+pkgname=sample
+version=release 1.0.0
+#depends=...
+url=https://github.com/flexpkg/sample
+license=None
+author=FlexPKG
+desc=A Sample Package for Testing Purposes
